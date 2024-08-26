@@ -1,212 +1,193 @@
 {
-  "titleNameMap":{
-      "educationList":"教育背景",
-      "workExpList":"工作经历",
-      "projectList":"项目经历",
-      "skillList":"个人技能",
-      "awardList":"更多信息",
-      "workList":"个人作品",
-      "aboutme":"自我介绍"
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
   },
-  "avatar":{
-      "src": "https://cloud.yueveron.com/images/huangyue/huangyue_1.jpg",
-      "hidden":false,
-      "shape":"circle"
+  "avatar": {
+    "src": "https://img.bosszhipin.com/beijin/upload/avatar/20220901/607f1f3d68754fd0985cf97f0f2ccd5caafa8e948985e69205980441a6ad7cdf528b7c717d0a9318_s.jpg",
+    "hidden": false,
+    "shape": "circle"
   },
-  "profile":{
-      "name":"黄悦",
-      "email":"yueveron@aliyun.com",
-      "mobile":"18902293067(微信同号)",
-      "github":"https://www.yueveron.com/",
-      "workExpYear":"2003年7月参加工作",
-      "workPlace":"广州",
-      "positionTitle":"前端工程师"
+  "profile": {
+    "name": "黄悦",
+    "email": "yueveron@aliyun.com",
+    "mobile": "18902293067(微信同号)",
+    "workExpYear": "2003年7月参加工作",
+    "workPlace": "广州",
+    "positionTitle": "前端工程师"
   },
-  "educationList":[
-      {
-          "edu_time":[
-              "2004.02.01",
-              "2007.01.30"
-          ],
-          "school":"中山大学",
-          "major":"计算机及应用",
-          "academic_degree":"本科-学士，自费",
-          "dataIndex":0
-      },
-      {
-          "edu_time":[
-              "2000.09.01",
-              "2003.06.30"
-          ],
-          "school":"广州大学",
-          "major":"计算机及应用",
-          "academic_degree":"大专，统招",
-          "dataIndex":1
-      },
-      {
-            "edu_time":[
-                "2003.06","2003.06"
-            ],
-            "school":"英语 CET6",
-            "major":"",
-            "academic_degree":"",
-            "dataIndex":2
-      }
-  ],
-  "awardList":[
-      {
-          "award_info":"英语 CET6",
-          "award_time":"2003",
-          "dataIndex":0
-      },
-      {
-          "award_info":"InfoQ 全球开发者大会分享：响应式Web设计在跨终端广告创意中的应用",
-          "award_time":"2013.06",
-          "dataIndex":1
-      }
-  ],
-  "workExpList":[
-      {
-          "company_name":"腾讯科技",
-          "department_name":"腾讯新闻-平台前端组",
-          "work_time":[
-              "2019.05",
-              null
-          ],
-          "work_desc":"1. 使用 React 开发腾讯新闻内容管理系统功能模块\n2. 使用 React 开发腾讯新闻数据分析平台产品及移动端WebApp\n3. 参与利亚-React CMS内容管理系统脚手架项目模块功能建设",
-          "dataIndex":0
-      },
-      {
-          "company_name":"腾讯科技",
-          "department_name":"腾讯新闻-内容出品部",
-          "work_time":[
-              "2015.03",
-              "2019.04"
-          ],
-          "work_desc":"1.使用 Vue 开发跨终端页面搭建工具 Crossbuilder\n2.使用 Html5/Css3/JQuery/RequireJS/Gulp 开发响应式专题页\n3.参与微信公众号产品“清闲”的前端页面UI设计及页面制作",
-          "dataIndex":1
-      },
-      {
-          "company_name":"腾讯科技",
-          "department_name":"广告销售部门-创意服务组",
-          "work_time":[
-              "2009.06",
-              "2015.03"
-          ],
-          "work_desc":"作为多媒体设计师，使用 FlashAS3 开发网络广告 minisite，互动游戏；使用AE对视频后期进行特效处理",
-          "dataIndex":2
-      },
-      {
-          "work_time":[
-              "2006.05",
-              "2009.06"
-          ],
-          "company_name":"广东省广告有限公司",
-          "department_name":"互动设计部",
-          "work_desc":"作为互动程序设计师，使用 FlashAs3开发网络广告、小游戏"
-      },
-      {
-          "work_time":[
-              "2003.07",
-              "2006.04"
-          ],
-          "company_name":"艾尔富（广州）科技有限公司",
-          "department_name":"软件部",
-          "work_desc":"作为程序员，负责公司产品的UI设计、网页设计"
-      }
-  ],
-  "skillList":[
-      {
-          "skill_name":"HTML / CSS / Less / Sass",
-          "skill_desc":"熟练 HTML / CSS / Less / Sass",
-          "skill_level":90,
-          "dataIndex":0
-      },
-      {
-          "skill_name":"React /TypeScript / JavaScript",
-          "skill_desc":"熟练 TypeScript / JavaScript",
-          "skill_level":90,
-          "dataIndex":1
-      },
-      {
-        "skill_name":"React / 前端工程化",
-        "skill_desc":" 较丰富的 React/前端工程化项目经验以及组件库开发经验",
-        "skill_level":80,
-        "dataIndex":2
-      },
-      {
-          "skill_name":"数据可视化",
-          "skill_desc":"echart、ant-design/charts、amcharts 数据可视化组件库有较丰富实践经验",
-          "skill_level":80,
-          "dataIndex":3
-      },      
-      {
-          "skill_name":"Vue / Angular / 小程序",
-          "skill_level":70,
-          "skill_desc":"较好地使用 Vue / Angular / 小程序 进行开发",
-          "dataIndex":4
-      },
-      {
-          "skill_name":"Node / Nginx / MySQL / MongoDB",
-          "skill_level":60,
-          "skill_desc":"能使用 Node / Nginx / MySQL / MongoDB",
-          "dataIndex":5
-      },
-      {
-        "skill_name":"Photoshop / Illustrator / AfterEffect / Premiere",
-        "skill_level":60,
-        "skill_desc":"能使用 Photoshop / Illustrator / AfterEffect / Premiere",
-        "dataIndex":6
+  "educationList": [
+    {
+      "edu_time": ["2004.02.01", "2007.01.30"],
+      "school": "中山大学",
+      "major": "计算机及应用",
+      "academic_degree": "本科-学士，自费",
+      "dataIndex": 0
+    },
+    {
+      "edu_time": ["2000.09.01", "2003.06.30"],
+      "school": "广州大学",
+      "major": "计算机及应用",
+      "academic_degree": "大专，统招",
+      "dataIndex": 1
+    },
+    {
+      "edu_time": ["2003.06", "2003.06"],
+      "school": "英语 CET6",
+      "major": "",
+      "academic_degree": "",
+      "dataIndex": 2
     }
   ],
-  "projectList":[
-      {
-          "project_name":"星辰发文项目",
-          "project_role":"前端开发者",
-          "project_time":"2021.04 - 至今",
-          "project_desc":"基于 React typescript + Concent（全局数据管理库）搭建的新闻内容管理系统。为新闻编辑同学提供编辑、发送新闻稿、图片素材管理、文章数据分析等功能。",
-          "project_content":"负责以下模块的前端功能实现\n1. 图库管理模块 : 功能包括创建图库、展示图库、图库权限控制、上传图片功能。开发过程中，本人封装了图片上传组件（支持单图、多图上传(可选逐张上传、并发批量)）；在图片展示列表中优化用户体验，视觉呈现上实现无限滚动加载及响应式布局。\n2.普文发文模块 : 功能包括输入内容信息发送图文文章。开发过程中，除了基础功能实现外，本人封装了公司员工筛选组件（支持模糊查询、接口防抖动处理）、封装图片预览、裁剪等组件从而提升组件复用性与拓展性。",
-          "dataIndex":0
-      },
-      {
-          "project_name":"用研云数据查询 Webapp",
-          "project_role":"核心开发者",
-          "project_time":"2022.05 - 至今",
-          "project_desc":"该项目是基于 React 创建的单页 Webapp ，用户可以在平台上查询媒体、行业相关信息，反馈数据以可视化图表方式呈现。",
-          "project_content":"本人从零开始负责项目全流程开发，项目已完成基础框架及首页模块，其余模块在开发中。\n项目涉及功能有以下：\n1. React 单页WebApp脚手架搭建 : react 基础模块、eslint 校验及编码格式化、svg图片载入、less支持、babel及webpack打包、mocker支持\n2.antd_mobile 组件 : Tab 组件使用、Css3 增加切换动画效果、自定义日期选择组件\n3.ant-design/charts 图表 : 折线图、饼图图像化展示数据",
-          "dataIndex":1
-      },
-      {
-          "project_name":"货架中台项目",
-          "project_role":"前端开发者",
-          "project_time":"2019.05 - 2020.10",
-          "project_desc":"基于 React 编写的 Webapp 。供用户查阅、分析文章内容数据、根据分析对内容进行补货等操作，从而提升运营的效率与准确度。",
-          "project_content":"负责以下模块的前端功能实现：\n1.请求消费模型模块：使用 echarts 组件实现多维数据图形化展示，优化用户体验自定义开发横向拖拽页面功能组件。\n2.缺货诊断模块：自定义封装 antd-table 组件、popover 组件、modal 组件满足 UE 设计需求。",
-          "dataIndex":2
-      },
-      {
-          "project_name":"Crossbuider 跨终端页面建站工具",
-          "project_role":"核心开发者",
-          "project_time":"2015 - 2019",
-          "project_desc":"Crossbuilder 是一款自助创建跨终端页面工具，用户在选择专题模版后，只需通过选择模块（图文、视频、抽奖,...）并以搭积木的方式即可创建专题页面。从创建至今共有13款专题模版，常用的有：长页专题、全屏融合、全景图片、画报等。",
-          "project_content":" 本人负责产品前端组件设计及前端整体功能开发。开发过程中从最初使用 jQuery、requireJS 到 3.0 版本迭代为 Vue 框架。从项目中总结技术研究，包括：前端工程化，性能优化、合并压缩、模块化开发、前端组件化、MVC设计模式。项目中的长页专题模版，已搭建超过10000多个专题页面。新闻早报、财经每日要闻，每天都定时发布，专题传播量大，带来可观的广告资源售卖。"
-      },
-      {
-          "project_name":"广告活动网站的 Minisite",
-          "project_role":"核心开发者",
-          "project_time":"2009 - 2014",
-          "project_desc":"09年进入腾讯后在广告销售部负责广告活动网站的 Minisite（Flash AS3 编写）及广告相关产品前端功能开发。",
-          "project_content":" 以下广告活动网站获得广告节奖项\n1. 北大青鸟 AR 互动问答游戏\n2. 联想 thinkpad 横版闯关游戏\n3. Smart 汽车多角度试驾"
-      }
+  "awardList": [
+    {
+      "award_info": "英语 CET6",
+      "award_time": "2003",
+      "dataIndex": 0
+    },
+    {
+      "award_info": "InfoQ 全球开发者大会分享：响应式Web设计在跨终端广告创意中的应用",
+      "award_time": "2013.06",
+      "dataIndex": 1
+    }
   ],
-  "workList":[
-
+  "workExpList": [
+    {
+      "company_name": "电讯盈科信息技术（广州）有限公司",
+      "department_name": "ODC海外研发中心",
+      "work_time": ["2022.10", null],
+      "work_desc": "1. 使用 React 开发政企数据管理系统，该系统为客户提供数据查询，新增、修改、校验等操作功能。"
+    },
+    {
+      "company_name": "腾讯科技",
+      "department_name": "腾讯新闻-平台前端组",
+      "work_time": ["2019.05", "2022.08"],
+      "work_desc": "1. 使用 React 开发腾讯新闻内容管理系统功能模块\n2. 使用 React 开发腾讯新闻数据分析平台产品及移动端WebApp\n3. 参与利亚-React CMS内容管理系统脚手架项目模块功能建设"
+    },
+    {
+      "company_name": "腾讯科技",
+      "department_name": "腾讯新闻-内容出品部",
+      "work_time": ["2015.03", "2019.04"],
+      "work_desc": "1.使用 Vue 开发跨终端页面搭建工具 Crossbuilder\n2.使用 Html5/Css3/JQuery/RequireJS/Gulp 开发响应式专题页\n3.参与微信公众号产品“清闲”的前端页面UI设计及页面制作"
+    },
+    {
+      "company_name": "腾讯科技",
+      "department_name": "广告销售部门-创意服务组",
+      "work_time": ["2009.06", "2015.03"],
+      "work_desc": "作为多媒体设计师，使用 FlashAS3 开发网络广告 minisite，互动游戏；使用AE对视频后期进行特效处理"
+    },
+    {
+      "work_time": ["2006.05", "2009.06"],
+      "company_name": "广东省广告有限公司",
+      "department_name": "互动设计部",
+      "work_desc": "作为互动程序设计师，使用 FlashAs3开发网络广告、小游戏"
+    },
+    {
+      "work_time": ["2003.07", "2006.04"],
+      "company_name": "艾尔富（广州）科技有限公司",
+      "department_name": "软件部",
+      "work_desc": "作为程序员，负责公司产品的UI设计、网页设计"
+    }
   ],
-  "aboutme":{
-      "aboutme_desc":"本人性格内敛沉稳，工作认真负责、执行力强，并善于沟通及团队协作。具有良好的编码风格，对代码规范性、可读性、运行质量有较高要求。同时，具备较好的网页设计、UI设计功底。\n最近3年就职腾讯新闻平台前端组，负责 React 开发新闻内容管理系统、数据分析平台等产品，对 React (Redux数据流、Hooks、组件封装)有丰富实践经验。对内容管理系统CMS、数据可视化项目建设有较为丰富的经验。\n本人从 FlashAs3 步入职场，逐步转向前端UI设计，再踏入前端开发，能顺应技术潮流，思索求变，在工作实践及课余时间学习新的知识领域，包括：React、Vue、Angular、小程序、NodeJS、前端工程化等前端全栈技术。"
+  "skillList": [
+    {
+      "skill_name": "HTML / CSS / Less / Sass",
+      "skill_desc": "熟练 HTML / CSS / Less / Sass",
+      "skill_level": 90,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "React /TypeScript / JavaScript",
+      "skill_desc": "熟练 TypeScript / JavaScript",
+      "skill_level": 90,
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "React / 前端工程化",
+      "skill_desc": " 较丰富的 React/前端工程化项目经验以及组件库开发经验",
+      "skill_level": 80,
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "数据可视化",
+      "skill_desc": "echart、ant-design/charts、amcharts 数据可视化组件库有较丰富实践经验",
+      "skill_level": 80,
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "Vue / Angular / 小程序",
+      "skill_level": 70,
+      "skill_desc": "较好地使用 Vue / Angular / 小程序 进行开发",
+      "dataIndex": 4
+    },
+    {
+      "skill_name": "Node / Nginx / MySQL / MongoDB",
+      "skill_level": 60,
+      "skill_desc": "能使用 Node / Nginx / MySQL / MongoDB",
+      "dataIndex": 5
+    },
+    {
+      "skill_name": "Photoshop / Illustrator / AfterEffect / Premiere",
+      "skill_level": 60,
+      "skill_desc": "能使用 Photoshop / Illustrator / AfterEffect / Premiere",
+      "dataIndex": 6
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "政企用户数据管理系统",
+      "project_role": "前端开发者",
+      "project_time": "2022.10 - 至今",
+      "project_desc": "该系统为客户提供数据查询，新增、修改、校验等操作功能。项目前端框架为React , 本人负责管理员相关功能模块开发，主要功能包括：搜索数据、分析及匹配数据、提交数据校验、图形化数据展示。",
+      "project_content": "本人利用 React、Custom-Hook、React-Query、React-Hook-Form 等技术栈及组件库实现前端交互功能。在项目实践中，对项目架构做到有序规划及可持续优化，主要通过以下实现：\n1. 使用Vite创建项目，加快编写速度及统一代码规范。规范目录架构、合理统筹通用组件及Tools，利用赖加载，提升页面载入速度。\n2.在开发过程中，对表单组件及功能通用组件，对其进行二次封装，实现复用及易维护；利用 Custom-Hook 抽离代码减少代码耦合及降低代码重复率。\n3.在数据联调中，通过自定义拦截系统，针对后端接口报错、网络问题进行错误处理，为用户提供友好的交互体验。\n4.为了确保代码健壮性、稳定性使用 Jest 和 React-Testing 测试和分析，并使用 SonarQube 提高项目代码质量。\n5.项目现已完成上线，在初期试用中，通过用户反馈及日志监测确保系统稳定运行。"
+    },
+    {
+      "project_name": "星辰发文项目",
+      "project_role": "前端开发者",
+      "project_time": "2021.04 - 2022.08",
+      "project_desc": "基于 React typescript + Concent（全局数据管理库）搭建的新闻内容管理系统。为新闻编辑同学提供编辑、发送新闻稿、图片素材管理、文章数据分析等功能。",
+      "project_content": "负责以下模块的前端功能实现\n1. 图库管理模块 : 功能包括创建图库、展示图库、图库权限控制、上传图片功能。开发过程中，本人封装了图片上传组件（支持单图、多图上传(可选逐张上传、并发批量)）；在图片展示列表中优化用户体验，视觉呈现上实现无限滚动加载及响应式布局。\n2.普文发文模块 : 功能包括输入内容信息发送图文文章。开发过程中，除了基础功能实现外，本人封装了公司员工筛选组件（支持模糊查询、接口防抖动处理）、封装图片预览、裁剪等组件从而提升组件复用性与拓展性。"
+    },
+    {
+      "project_name": "用研云数据查询 Webapp",
+      "project_role": "核心开发者",
+      "project_time": "2022.05 - 2022.08",
+      "project_desc": "该项目是基于 React 创建的单页 Webapp ，用户可以在平台上查询媒体、行业相关信息，反馈数据以可视化图表方式呈现。",
+      "project_content": "本人从零开始负责项目全流程开发，项目已完成基础框架及首页模块，其余模块在开发中。\n项目涉及功能有以下：\n1. React 单页WebApp脚手架搭建 : react 基础模块、eslint 校验及编码格式化、svg图片载入、less支持、babel及webpack打包、mocker支持\n2.antd_mobile 组件 : Tab 组件使用、Css3 增加切换动画效果、自定义日期选择组件\n3.ant-design/charts 图表 : 折线图、饼图图像化展示数据"
+    },
+    {
+      "project_name": "货架中台项目",
+      "project_role": "前端开发者",
+      "project_time": "2019.05 - 2020.10",
+      "project_desc": "基于 React 编写的 Webapp 。供用户查阅、分析文章内容数据、根据分析对内容进行补货等操作，从而提升运营的效率与准确度。",
+      "project_content": "负责以下模块的前端功能实现：\n1.请求消费模型模块：使用 echarts 组件实现多维数据图形化展示，优化用户体验自定义开发横向拖拽页面功能组件。\n2.缺货诊断模块：自定义封装 antd-table 组件、popover 组件、modal 组件满足 UE 设计需求。"
+    },
+    {
+      "project_name": "Crossbuider 跨终端页面建站工具",
+      "project_role": "核心开发者",
+      "project_time": "2015 - 2019",
+      "project_desc": "Crossbuilder 是一款自助创建跨终端页面工具，用户在选择专题模版后，只需通过选择模块（图文、视频、抽奖,...）并以搭积木的方式即可创建专题页面。从创建至今共有13款专题模版，常用的有：长页专题、全屏融合、全景图片、画报等。",
+      "project_content": " 本人负责产品前端组件设计及前端整体功能开发。开发过程中从最初使用 jQuery、requireJS 到 3.0 版本迭代为 Vue 框架。从项目中总结技术研究，包括：前端工程化，性能优化、合并压缩、模块化开发、前端组件化、MVC设计模式。项目中的长页专题模版，已搭建超过10000多个专题页面。新闻早报、财经每日要闻，每天都定时发布，专题传播量大，带来可观的广告资源售卖。"
+    },
+    {
+      "project_name": "广告活动网站的 Minisite",
+      "project_role": "核心开发者",
+      "project_time": "2009 - 2014",
+      "project_desc": "09年进入腾讯后在广告销售部负责广告活动网站的 Minisite（Flash AS3 编写）及广告相关产品前端功能开发。",
+      "project_content": " 以下广告活动网站获得广告节奖项\n1. 北大青鸟 AR 互动问答游戏\n2. 联想 thinkpad 横版闯关游戏\n3. Smart 汽车多角度试驾"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "本人性格内敛沉稳，工作认真负责，善于沟通及团队协作。具有良好的编码风格，同时具备较好的UI设计功底。最近2年就职联想电讯盈科ODC海外研发中心，担任前端开发工程师，主要使用 React 开发数据管理系统。之前就职腾讯新闻前端组，负责React开发新闻内容管理系统、数据分析平台等产品。对 React、内容管理系统CMS、数据可视化项目有较为丰富的经验。\n最近3年就职腾讯新闻平台前端组，负责 React 开发新闻内容管理系统、数据分析平台等产品，对 React (Redux数据流、Hooks、组件封装)有丰富实践经验。对内容管理系统CMS、数据可视化项目建设有较为丰富的经验。\n本人从 FlashAs3 步入职场，逐步转向前端UI设计，再踏入前端开发，能顺应技术潮流，思索求变，在工作实践及课余时间学习新的知识领域，包括：React、Angular、Vue、小程序、NodeJS、前端工程化等前端全栈技术。"
   },
-  "theme":{
-      "color":"#2f5785",
-      "tagColor":"#8bc34a"
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
   }
 }
