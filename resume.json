@@ -96,26 +96,26 @@
   ],
   "skillList": [
     {
-      "skill_name": "HTML / CSS / Less / Sass",
-      "skill_desc": "熟练 HTML / CSS / Less / Sass",
+      "skill_name": "React /TypeScript / JavaScript",
+      "skill_desc": "熟练 React / TypeScript / JavaScript",
       "skill_level": 90,
       "dataIndex": 0
     },
     {
-      "skill_name": "React /TypeScript / JavaScript",
-      "skill_desc": "熟练 React / TypeScript / JavaScript",
+      "skill_name": "React / 前端工程化",
+      "skill_desc": "丰富的 React/前端工程化项目经验以及组件库开发经验",
       "skill_level": 90,
       "dataIndex": 1
-    },
+    },    
     {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": " 较丰富的 React/前端工程化项目经验以及组件库开发经验",
+      "skill_name": "数据可视化",
+      "skill_desc": "echart、ant-design/charts、amcharts 数据可视化组件库有较丰富实践经验",
       "skill_level": 80,
       "dataIndex": 2
     },
     {
-      "skill_name": "数据可视化",
-      "skill_desc": "echart、ant-design/charts、amcharts 数据可视化组件库有较丰富实践经验",
+      "skill_name": "HTML / CSS / Less / Sass",
+      "skill_desc": "熟练 HTML / CSS / Less / Sass",
       "skill_level": 80,
       "dataIndex": 3
     },
