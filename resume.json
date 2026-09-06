@@ -1,1 +1,158 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"src":"https://img.bosszhipin.com/beijin/upload/avatar/20220901/607f1f3d68754fd0985cf97f0f2ccd5caafa8e948985e69205980441a6ad7cdf528b7c717d0a9318_s.jpg","hidden":false,"shape":"circle"},"profile":{"name":"黄悦","email":"yueveron@aliyun.com","mobile":"18902293067(微信同号)","workExpYear":"10年以上前端经验","workPlace":"广州","positionTitle":"前端工程师"},"educationList":[{"school":"中山大学","major":"计算机及应用","academic_degree":"本科-学士","dataIndex":0},{"school":"广州大学","major":"计算机及应用","academic_degree":"大专，统招","dataIndex":1},{"school":"英语 CET6","major":"","academic_degree":"","dataIndex":2}],"awardList":[{"award_info":"英语 CET6","award_time":"2003","dataIndex":0},{"award_info":"InfoQ 全球开发者大会分享：响应式Web设计在跨终端广告创意中的应用","award_time":"2013.06","dataIndex":1}],"workExpList":[{"company_name":"纬创软件驻小鹏汽车外包","department_name":"小鹏汽车财务中心、智能中心","work_time":["2024.12","2026.07"],"work_desc":"1. React 开发内部物资管理系统，包含资产台账、借车、租车、验车管理应用及配套移动端 WebApp 混合开发。\n2. 熟练将 Cursor AI 工具融入日常研发，高效进行老旧代码重构与效能调优。"},{"company_name":"电讯盈科信息技术（广州）有限公司","department_name":"ODC海外研发中心","work_time":["2022.10","2024.09"],"work_desc":"1. 使用 React 开发政企数据管理系统核心模块研发，为大型客户提供高效的数据查询、新增、修改与复杂校验功能。"},{"company_name":"腾讯科技","department_name":"腾讯新闻-平台前端组 / 内容出品部","work_time":["2015.03","2022.08"],"work_desc":"1. 研发新闻内容管理系统（CMS）核心功能模块、发文工具与大型数据分析平台产品。\n2. 负责跨终端页面建站工具研发，历经由早期架构至 React 框架的工程化技术反复迭代。"},{"company_name":"腾讯广告及软件企业（早期经历已精简）","department_name":"前端研发部","work_time":["2007.05","2015.03"],"work_desc":"负责早期互动程序设计、多媒体交互网站前端技术研发与 UI/UX 交互还原。"}],"skillList":[{"skill_name":"React / TypeScript / AI 研发提效","skill_desc":"精通 React / TypeScript 生态与前端工程化；熟练利用 Cursor AI 辅助编程实现高效代码重构与 Bug 调优。","skill_level":95,"dataIndex":0},{"skill_name":"Vue / H5 移动端混合开发","skill_desc":"具备深厚的 Vue 生态底层理解（支持 1-2 天内无缝切换至现有 Vue 系统进行日常维护）；熟练编写适应飞书/内网 App 的高互动 AntD Mobile 组件。","skill_level":85,"dataIndex":1},{"skill_name":"数据可视化与核心 B 端业务","skill_desc":"对 ECharts、AntV 等数据可视化组件库有丰富的实践经验；对资产管理、审批流控制、多条件复杂筛选防抖等 B 端底层业务逻辑有深入理解。","skill_level":90,"dataIndex":2},{"skill_name":"Node.js / 全栈工程化储备","skill_desc":"熟练运用 HTML5/CSS3/Less/Sass；掌握 Node.js 全栈工程化基本架构及智能 Agent 组件封装等前沿提效技术。","skill_level":70,"dataIndex":3}],"projectList":[{"project_name":"XPAM 固定资产管理系统（小鹏汽车项目）","project_role":"前端核心开发者","project_time":"2025.10 - 至今","project_desc":"XPAM 是一套 Web + H5 的双端资产管理平台，涵盖资产台账、变更流转、物资盘点、车辆借用及设备维保等核心 B 端业务场景，实现全审批流驱动的资产操作闭环。前端架构基于 Vite + React + TypeScript 搭建。","project_content":"主要工作与成果：\n1. 高效组件封装：自研 CalendarBooking 日历预约表格，支持日/周/月视图切换与资源占用可视化；基于 antd-mobile 封装分步验车表单，支持 SVG 汽车示意图损伤标注与图片压缩上传。\n2. AI 研发敏捷落地：在台账管理系统研发中，规划定义并输出标准化的代码 Skill 提供给 AI 工具（Cursor）进行复用，使后续增删改查模块遵循统一规则自动创建，极大提升团队组件复用性与代码规范性。"},{"project_name":"数智管理系统（小鹏汽车项目）","project_role":"前端开发者","project_time":"2025.04 - 2025.09","project_desc":"该系统为企业管理者提供下属人员信息查询、数据分析及可视化图表展示，辅助管理者进行员工评定与规划决策。前端架构基于 UMI + React 搭建。","project_content":"主要工作与成果：\n1. 复杂组件优化：负责人员洞察管理模块开发。针对多条件复杂筛选组件，利用配置项灵活定义文本框、下拉菜单、自定义 Item 等筛选字段，大幅提升组件复用度。\n2. 稳定性与效能优化：针对大数据量输入监测加入防抖机制，自动过滤无效空数据确保界面稳定；利用 Custom Hook 抽离核心业务逻辑，并配合 useMemo 缓存复杂计算结果，大幅降低页面渲染开销。"},{"project_name":"政企用户数据管理系统（联想电讯盈科）","project_role":"前端核心开发者","project_time":"2022.10 - 2024.09","project_desc":"为大型政企客户提供数据高效查询、新增、修改与复杂数据校验功能的综合后台管理系统。前端架构基于 React 生态搭建。","project_content":"主要工作与成果：\n1. 专案架构持续优化：使用 Vite 构建专案并统筹通用组件与 Tools，利用路由懒加载优化，显著提升复杂后台页面的首屏加载速度。\n2. 表单封装与低耦合：利用 Custom-Hook、React-Query 和 React-Hook-Form 对高频表单与功能组件进行二次封装，大幅抽离冗余代码，降低代码耦合度与重复率。\n3. 代码品质控制：利用 Jest 与 React-Testing 进行严格的单元测试，并通过 SonarQube 工具进行代码品质静态扫描，确保企业级系统在长期维护中的健壮性与稳定性。"},{"project_name":"星辰发文与内容管理平台（腾讯新闻项目）","project_role":"前端开发者","project_time":"2019.05 - 2022.08","project_desc":"基于 React + TypeScript + 全局数据管理库搭建的大型新闻内容 management 与数据分析平台（CMS），服务于核心新闻编辑与运营团队，提供发文、素材管理及多维数据图表分析功能。","project_content":"主要工作与成果：\n1. 核心模块构建：负责普文发文模块与图库管理模块开发，实现复杂的图文编辑、图片上传、高频图库权限控制等功能。\n2. 通用组件沉淀：独立封装具备高度扩展性的图片预览、裁剪、异步上传等通用组件，大幅提升了发文工作流的系统交付效率；配合 ECharts 实现多维度请求消费模型图表展示，优化横向拖拽交互体验。"}],"workList":[],"aboutme":{"aboutme_desc":"本人性格内敛沉稳，工作认真负责，善于沟通及团队协作。具备良好编码风格，在 React 生态、内容管理系统 (CMS)、大型数据管理后台及数据可视化项目领域拥厚积淀。见证了前端技术从早期 HTML/CSS 到如今 React/Vue 工程化时代的演进，底层技术功底极其扎实。\n\n面对当前 AI 浪潮，我紧跟趋势，已全面将 Cursor AI 等工具融入日常敏捷开发，实现代码的高效重构与调调优；同时具备 NodeJS 全栈工程化与智能 Agent 组件封装的全栈技术储备。虽然近年主攻 React 体系，但对 Vue 体系同样有维护经验，在 AI 工具辅助下，任何现有的 Vue+ElementUI 系统均可在 1-2 天内无缝上手独立交付。\n我希望以务实、求稳的心态沉下心来配合团队工作，为公司创造实在的交付价值。"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "src": "https://img.bosszhipin.com/beijin/upload/avatar/20220901/607f1f3d68754fd0985cf97f0f2ccd5caafa8e948985e69205980441a6ad7cdf528b7c717d0a9318_s.jpg",
+        "hidden": false,
+        "shape": "circle"
+    },
+    "profile": {
+        "name": "黄悦",
+        "email": "yueveron@aliyun.com",
+        "mobile": "18902293067(微信同号)",
+        "workExpYear": "10年以上前端经验",
+        "workPlace": "广州",
+        "positionTitle": "前端工程师"
+    },
+    "educationList": [
+        {
+            "school": "中山大学",
+            "major": "计算机及应用",
+            "academic_degree": "本科-学士",
+            "dataIndex": 0
+        },
+        {
+            "school": "广州大学",
+            "major": "计算机及应用",
+            "academic_degree": "大专，统招",
+            "dataIndex": 1
+        },
+        {
+            "school": "英语 CET6",
+            "major": "",
+            "academic_degree": "",
+            "dataIndex": 2
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "英语 CET6",
+            "award_time": "2003",
+            "dataIndex": 0
+        },
+        {
+            "award_info": "InfoQ 全球开发者大会分享：响应式Web设计在跨终端广告创意中的应用",
+            "award_time": "2013.06",
+            "dataIndex": 1
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "纬创软件驻小鹏汽车外包",
+            "department_name": "小鹏汽车财务中心、智能中心",
+            "work_time": [
+                "2024.12",
+                "2026.07"
+            ],
+            "work_desc": "1. React 开发内部物资管理系统，包含资产台账、借车、租车、验车管理应用及配套移动端 WebApp 混合开发。\n2. 熟练将 Cursor AI 工具融入日常研发，高效进行老旧代码重构与效能调优。"
+        },
+        {
+            "company_name": "电讯盈科信息技术（广州）有限公司",
+            "department_name": "ODC海外研发中心",
+            "work_time": [
+                "2022.10",
+                "2024.09"
+            ],
+            "work_desc": "1. 使用 React 开发政企数据管理系统核心模块研发，为大型客户提供高效的数据查询、新增、修改与复杂校验功能。"
+        },
+        {
+            "company_name": "腾讯科技",
+            "department_name": "腾讯新闻-平台前端组 / 内容出品部",
+            "work_time": [
+                "2015.03",
+                "2022.08"
+            ],
+            "work_desc": "1. 研发新闻内容管理系统（CMS）核心功能模块、发文工具与大型数据分析平台产品。\n2. 负责跨终端页面建站工具研发，历经由早期架构至 React 框架的工程化技术反复迭代。"
+        },
+        {
+            "company_name": "腾讯广告及软件企业（早期经历已精简）",
+            "department_name": "前端研发部",
+            "work_time": [
+                "2007.05",
+                "2015.03"
+            ],
+            "work_desc": "负责早期互动程序设计、多媒体交互网站前端技术研发与 UI/UX 交互还原。"
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "React / TypeScript / AI 研发提效",
+            "skill_desc": "精通 React / TypeScript 生态与前端工程化；熟练利用 Cursor AI 辅助编程实现高效代码重构与 Bug 调优。",
+            "skill_level": 95,
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "Vue / H5 移动端混合开发",
+            "skill_desc": "具备深厚的 Vue 生态底层理解（支持 1-2 天内无缝切换至现有 Vue 系统进行日常维护）；熟练编写适应飞书/内网 App 的高互动 AntD Mobile 组件。",
+            "skill_level": 85,
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "数据可视化与核心 B 端业务",
+            "skill_desc": "对 ECharts、AntV 等数据可视化组件库有丰富的实践经验；对资产管理、审批流控制、多条件复杂筛选防抖等 B 端底层业务逻辑有深入理解。",
+            "skill_level": 90,
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "Node.js / 全栈工程化储备",
+            "skill_desc": "熟练运用 HTML5/CSS3/Less/Sass；掌握 Node.js 全栈工程化基本架构及智能 Agent 组件封装等前沿提效技术。",
+            "skill_level": 70,
+            "dataIndex": 3
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "XPAM 固定资产管理系统（小鹏汽车项目）",
+            "project_role": "前端核心开发者",
+            "project_time": "2025.10 - 至今",
+            "project_desc": "XPAM 是一套 Web + H5 的双端资产管理平台，涵盖资产台账、变更流转、物资盘点、车辆借用及设备维保等核心 B 端业务场景，实现全审批流驱动的资产操作闭环。前端架构基于 Vite + React + TypeScript 搭建。",
+            "project_content": "主要工作与成果：\n1. 高效组件封装：自研 CalendarBooking 日历预约表格，支持日/周/月视图切换与资源占用可视化；基于 antd-mobile 封装分步验车表单，支持 SVG 汽车示意图损伤标注与图片压缩上传。\n2. AI 研发敏捷落地：在台账管理系统研发中，规划定义并输出标准化的代码 Skill 提供给 AI 工具（Cursor）进行复用，使后续增删改查模块遵循统一规则自动创建，极大提升团队组件复用性与代码规范性。"
+        },
+        {
+            "project_name": "数智管理系统（小鹏汽车项目）",
+            "project_role": "前端开发者",
+            "project_time": "2025.04 - 2025.09",
+            "project_desc": "该系统为企业管理者提供下属人员信息查询、数据分析及可视化图表展示，辅助管理者进行员工评定与规划决策。前端架构基于 UMI + React 搭建。",
+            "project_content": "主要工作与成果：\n1. 复杂组件优化：负责人员洞察管理模块开发。针对多条件复杂筛选组件，利用配置项灵活定义文本框、下拉菜单、自定义 Item 等筛选字段，大幅提升组件复用度。\n2. 稳定性与效能优化：针对大数据量输入监测加入防抖机制，自动过滤无效空数据确保界面稳定；利用 Custom Hook 抽离核心业务逻辑，并配合 useMemo 缓存复杂计算结果，大幅降低页面渲染开销。"
+        },
+        {
+            "project_name": "政企用户数据管理系统（联想电讯盈科）",
+            "project_role": "前端核心开发者",
+            "project_time": "2022.10 - 2024.09",
+            "project_desc": "为大型政企客户提供数据高效查询、新增、修改与复杂数据校验功能的综合后台管理系统。前端架构基于 React 生态搭建。",
+            "project_content": "主要工作与成果：\n1. 专案架构持续优化：使用 Vite 构建专案并统筹通用组件与 Tools，利用路由懒加载优化，显著提升复杂后台页面的首屏加载速度。\n2. 表单封装与低耦合：利用 Custom-Hook、React-Query 和 React-Hook-Form 对高频表单与功能组件进行二次封装，大幅抽离冗余代码，降低代码耦合度与重复率。\n3. 代码品质控制：利用 Jest 与 React-Testing 进行严格的单元测试，并通过 SonarQube 工具进行代码品质静态扫描，确保企业级系统在长期维护中的健壮性与稳定性。"
+        },
+        {
+            "project_name": "星辰发文与内容管理平台（腾讯新闻项目）",
+            "project_role": "前端开发者",
+            "project_time": "2019.05 - 2022.08",
+            "project_desc": "基于 React + TypeScript + 全局数据管理库搭建的大型新闻内容 management 与数据分析平台（CMS），服务于核心新闻编辑与运营团队，提供发文、素材管理及多维数据图表分析功能。",
+            "project_content": "主要工作与成果：\n1. 核心模块构建：负责普文发文模块与图库管理模块开发，实现复杂的图文编辑、图片上传、高频图库权限控制等功能。\n2. 通用组件沉淀：独立封装具备高度扩展性的图片预览、裁剪、异步上传等通用组件，大幅提升了发文工作流的系统交付效率；配合 ECharts 实现多维度请求消费模型图表展示，优化横向拖拽交互体验。"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "本人性格内敛沉稳，工作认真负责，善于沟通及团队协作。具备良好编码风格，在 React 生态、内容管理系统 (CMS)、大型数据管理后台及数据可视化项目领域拥厚积淀。见证了前端技术从早期 HTML/CSS 到如今 React/Vue 工程化时代的演进，底层技术功底极其扎实。\n\n面对当前 AI 浪潮，我紧跟趋势，已全面将 Cursor AI 等工具融入日常敏捷开发，实现代码的高效重构与调调优；同时具备 NodeJS 全栈工程化与智能 Agent 组件封装的全栈技术储备。虽然近年主攻 React 体系，但对 Vue 体系同样有维护经验，在 AI 工具辅助下，任何现有的 Vue+ElementUI 系统均可在 1-2 天内无缝上手独立交付。\n我希望以务实、求稳的心态沉下心来配合团队工作，为公司创造实在的交付价值。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
